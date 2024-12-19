@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# OS specific files
+/.DS_Store
+/Thumbs.db
+
+# Log files
+*.log
+
+# Build output
+/build
+/dist
+
+# Test results
+/test-results
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Local configuration files
+.env*
+config.json
